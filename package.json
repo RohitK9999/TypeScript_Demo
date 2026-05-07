@@ -1,0 +1,7 @@
+{
+    "scripts": {
+
+        "test": "npx ts-node arrays.ts",
+        "callbackdemo": "callback.ts"
+    }
+}
